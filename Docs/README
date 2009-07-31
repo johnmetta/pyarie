@@ -1,0 +1,47 @@
+Pyarie: A Python aid for river/ecosystem modeling tasks
+
+This is a program that I'm writting for use in my thesis
+at Oregon State University. It is being used by me to both
+develop and solve models in hydro-ecological systems.
+
+I'm designing it as a more generic system solver method,
+rather than as a specific ecosystem modeling package mainly
+so that other those in other engineering or math-intensive
+fields can use it.
+
+Significant inspiration came from:
+"Modelling and Simulation (Cs522) Final Project
+A Hybrid Simulator: ODEs and Event Scheduling"
+By: Olivier Dubois and Eric McSween
+that I found at http://www.cs.mcgill.ca/~emcswe/cs522/project/
+However, it is a quite different program than their's. For
+instance, Pyarie uses SimPy (http://simpy.sf.net) for
+the scheduling and modeling framework.
+
+Their Hybrid Solver program was great as a jumpstart, and 
+I've built this using their design as a good "algorithm
+checker" to develop Pyarie. However, I want to acknowledge 
+their original work and thank them, because it would have 
+been a significant task merely getting to a starting point
+for developing a simulation program had it not been for 
+their class project.
+
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2
+of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA  02111-1307, USA.
+
+
+John Metta
+<kuthu@lists.sourceforge.net>
+
+$Id: $

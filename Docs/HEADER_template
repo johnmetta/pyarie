@@ -1,0 +1,14 @@
+##################################################################
+## Pyarie: Python aids for River/Ecosystem Modeling
+## Copyright (C) 2005 John W Metta (prev. Pennington)
+##		<kuthu@users.sourceforge.net>	
+## See license.txt for a copy of the GNU GPL license
+##--------------------------------------------------------------------
+## Module:		pam.py
+## Purpose:		
+## Classes:		pam() 
+##
+## Notes:
+##--------------------------------------------------------------------
+## $Id: HEADER_template,v 1.1 2005/10/13 01:29:29 kuthu Exp $
+###################################################################

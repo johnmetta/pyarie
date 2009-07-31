@@ -1,0 +1,13 @@
+/.cvsignore/1.1/Thu Oct 13 01:25:51 2005//
+/.project/1.1/Thu Oct 13 01:24:26 2005//
+D/BaseClasses////
+D/Docs////
+D/Examples////
+D/Maths////
+D/Stochastics////
+D/Utils////
+/__init__.py/1.1/Thu Oct 13 01:26:50 2005//
+/__version__.py/1.1/Thu Oct 13 01:26:50 2005//
+D/archive////
+/pyarie.py/1.1/Thu Oct 13 01:26:50 2005//
+/simulation.py/1.3/Thu Oct 13 02:34:36 2005//
